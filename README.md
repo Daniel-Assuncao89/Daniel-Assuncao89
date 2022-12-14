@@ -18,12 +18,6 @@ Olá, me chamo Daniel, homem trans, graduado em engenharia da computação e dev
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-
-  ![Snake animation](https://github.com/Daniel-Assuncao89/Daniel-Assuncao89/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Daniel-Assuncao89&icon=0&color=6)](https://visitcount.itsvg.in)
 
